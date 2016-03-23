@@ -1,2 +1,2 @@
 # Intel-Realsense-3D
-Intel RealSense 3D camera &amp; OpenCV
+Integrate Intel Realsense 3D camera with OpenCV
